@@ -1,3 +1,2 @@
 # LearningGithub001
-
-This is another update of the description
+This is the updated readme file
